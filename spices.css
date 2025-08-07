@@ -1,0 +1,23 @@
+.lis{
+    display: flex;
+}
+
+#img{
+    display: flex;
+    height: 400px;
+    margin-top: 180px;
+}
+#fot{
+    display: flex;
+    background-color: bisque;
+}
+
+#list{
+    border-right: 5px solid white;
+}
+
+#add{
+    border:5px solid white;
+    margin-left: 10p;
+}
+
